@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there! I'm Naveen 👋
 
-<!--
-**naveenjayawardanaleo/naveenjayawardanaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer — Passionate Full Stack Web developer specializing in PHP, Laravel, Codeigniter, JavaScript, HTML/CSS, and WordPress development. I build robust corporate websites, e-commerce platforms, and custom web tools, leveraging a strong foundation in both front-end and back-end architecture.
 
-Here are some ideas to get you started:
+🚀 Tech Stack  
+Backend: PHP, Laravel, codeigniter
+Frontend: HTML, CSS, JavaScript  
+CMS: WordPress  
+Database: MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Projects  
+WDSL.lk (wdsl.lk) — My website built with PHP / Codeigniter.  
+Indoor Plant (indoorplant.lk) — E-commerce / product catalog site built with PHP / Codeigniter.
+Fine Destinations Travels (finedestinationstravels.com) Australia Travel Company built with PHP / Codeigniter.
+Ajana Gems (ajanagems.com) - Ecommerce website based in Canada built with PHP / Codeigniter.
+Ceylon Optim (ceylonoptim.com) - Travel company based in Bentota  built with Codeigniter.
+dsprime.lk (dsprime.lk) - Construction Website
+DIYUNAKA Holdings (Pvt) Ltd (diyunaka.com) - Construction Comapany website
+The Golden Choice Tours (thegoldenchoicetours.com) - Laravel project with dynamic content (cms).
+Novation International (novation.lk) - Medical Equipment's industry project developed by using codeigniter.
+JMax Tours (jmaxtours.com) - Travel and Tour Website uisng codeigniter.
+
+📫 Get In Touch  
+Email: naveenjayawardanaleo@gmail.com | LinkedIn: linkedin.com/in/naveenjayawardana | Portfolio: wdsl.lk/projects
+✨ Thanks for Visiting!  
+Feel free to explore my repositories or reach out if you have any questions or collaboration opportunities.
