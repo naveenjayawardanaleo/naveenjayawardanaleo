@@ -3,12 +3,14 @@ Hi there! I'm Naveen 👋
 Full Stack Developer — Passionate Full Stack Web developer specializing in PHP, Laravel, Codeigniter, JavaScript, HTML/CSS, and WordPress development. I build robust corporate websites, e-commerce platforms, and custom web tools, leveraging a strong foundation in both front-end and back-end architecture.
 
 🚀 Tech Stack  
+
 Backend: PHP, Laravel, codeigniter
 Frontend: HTML, CSS, JavaScript  
 CMS: WordPress  
 Database: MySQL  
 
 🔧 Projects  
+
 WDSL.lk (wdsl.lk) — My website built with PHP / Codeigniter.
 
 Indoor Plant (indoorplant.lk) — E-commerce / product catalog site built with PHP / Codeigniter.
@@ -30,6 +32,9 @@ Novation International (novation.lk) - Medical Equipment's industry project deve
 JMax Tours (jmaxtours.com) - Travel and Tour Website uisng codeigniter.
 
 📫 Get In Touch  
+
 Email: naveenjayawardanaleo@gmail.com | LinkedIn: linkedin.com/in/naveenjayawardana | Portfolio: wdsl.lk/projects
+
 ✨ Thanks for Visiting!  
+
 Feel free to explore my repositories or reach out if you have any questions or collaboration opportunities.
