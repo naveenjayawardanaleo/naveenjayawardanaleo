@@ -31,6 +31,8 @@ Novation International (novation.lk) - Medical Equipment's industry project deve
 
 JMax Tours (jmaxtours.com) - Travel and Tour Website uisng codeigniter.
 
+Uva Golden Buds (Pvt) Ltd (uvagoldenbuds.com) - Ceylon Tea Exports Company based in Sri Lanka. Project design and developed using codeigniter framework
+
 📫 Get In Touch  
 
 Email: naveenjayawardanaleo@gmail.com | LinkedIn: linkedin.com/in/naveenjayawardana | Portfolio: wdsl.lk/projects
