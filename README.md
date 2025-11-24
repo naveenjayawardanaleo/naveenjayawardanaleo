@@ -9,15 +9,24 @@ CMS: WordPress
 Database: MySQL  
 
 🔧 Projects  
-WDSL.lk (wdsl.lk) — My website built with PHP / Codeigniter.  
+WDSL.lk (wdsl.lk) — My website built with PHP / Codeigniter.
+
 Indoor Plant (indoorplant.lk) — E-commerce / product catalog site built with PHP / Codeigniter.
+
 Fine Destinations Travels (finedestinationstravels.com) Australia Travel Company built with PHP / Codeigniter.
+
 Ajana Gems (ajanagems.com) - Ecommerce website based in Canada built with PHP / Codeigniter.
+
 Ceylon Optim (ceylonoptim.com) - Travel company based in Bentota  built with Codeigniter.
+
 dsprime.lk (dsprime.lk) - Construction Website
+
 DIYUNAKA Holdings (Pvt) Ltd (diyunaka.com) - Construction Comapany website
+
 The Golden Choice Tours (thegoldenchoicetours.com) - Laravel project with dynamic content (cms).
+
 Novation International (novation.lk) - Medical Equipment's industry project developed by using codeigniter.
+
 JMax Tours (jmaxtours.com) - Travel and Tour Website uisng codeigniter.
 
 📫 Get In Touch  
