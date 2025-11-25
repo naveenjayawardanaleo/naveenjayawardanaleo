@@ -11,11 +11,11 @@ Database: MySQL
 
 🔧 Projects  
 
-WDSL.lk (wdsl.lk) — My website built with PHP / Codeigniter.
+WDSL.lk (wdsl.lk) - My website built with PHP / Codeigniter.
 
-Indoor Plant (indoorplant.lk) — E-commerce / product catalog site built with PHP / Codeigniter.
+Indoor Plant (indoorplant.lk) - E-commerce / product catalog site built with PHP / Codeigniter.
 
-Fine Destinations Travels (finedestinationstravels.com) Australia Travel Company built with PHP / Codeigniter.
+Fine Destinations Travels (finedestinationstravels.com) - Australia Travel Company website built with PHP / Codeigniter.
 
 Ajana Gems (ajanagems.com) - Ecommerce website based in Canada built with PHP / Codeigniter.
 
